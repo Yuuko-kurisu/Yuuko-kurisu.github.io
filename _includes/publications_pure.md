@@ -1,7 +1,4 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
-
-<div class="publications">
-<ol class="bibliography">
+## Publications
 
 <h4 style="margin:0 10px 0;">Accepted</h4>
 
