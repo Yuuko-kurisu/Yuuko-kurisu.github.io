@@ -16,11 +16,14 @@ I completed my Bachelor's degree in Industrial Engineering at Huazhong Universit
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[July. 2024]** Excited to start an academic trip in Huhhot with the ChineseCSCW community!
+- **[Jan. 2024]** Our paper about reliability in component allocation problem is accepted to AEI.
+- **[Dec. 2023]** Our paper about crowdsourcing logistics platform is accepted to IEEE TITS.
+- **[Sept. 2021]** Started my Ph.D. at SJTU!
 
-{% include_relative _includes/publications.md %}
+{% include_relative _includes/publications_pure.md %}
 
 {% include_relative _includes/services.md %}
+
+
+
