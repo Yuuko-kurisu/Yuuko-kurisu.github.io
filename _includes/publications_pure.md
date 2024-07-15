@@ -16,7 +16,7 @@
 
 <ul style="margin:0 0 5px;">
 <li><h5>Order allocation strategy for online car-hailing platform in the context of multi-party interests</h5> J You, H Jiang, Z Chen, X Ming, PZH Sun <br>
-  <i> Advanced Engineering Informatics (AEI),</i> 2024 <br>
+  <i> Advanced Engineering Informatics (AEI),</i> 2023 <br>
   </li>
 </ul>
 
@@ -34,7 +34,7 @@
 
 <ul style="margin:0 0 5px;">
 <li><h5>Auction mechanism-based order allocation for third-party vehicle logistics platforms</h5> Z Chen, J You, H Jiang, X Ming, PZH Sun <br>
-  <i> Advanced Engineering Informatics (AEI)，</i> 2024 <br>
+  <i> Advanced Engineering Informatics (AEI)，</i> 2023 <br>
   </li>
 </ul>
 
